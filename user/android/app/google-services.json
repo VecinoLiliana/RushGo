@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303243898619",
+    "project_id": "rushgo-99199",
+    "storage_bucket": "rushgo-99199.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303243898619:android:0cf1bd5dc168f0e2998a5e",
+        "android_client_info": {
+          "package_name": "com.example.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgf1Ev6AB4qsiARiwYuZ60pKNhD_OFbBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
